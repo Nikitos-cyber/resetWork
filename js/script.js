@@ -1,5 +1,8 @@
 'use strict';
 
+let money,income,addExpenses,deposit,mission,period;
+
+
 alert("hello world!");
 let arr = [1,2,3];
 
